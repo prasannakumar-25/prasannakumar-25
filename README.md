@@ -52,11 +52,11 @@
 <h2 style="color:#00FFFF;">📈 <strong>My GitHub Analytics</strong></h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamkumarU&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasannakumar&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamkumarU&theme=vue" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasannakumar&theme=vue" alt="Profile Summary" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=RamkumarU&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Prasannakumar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
@@ -77,18 +77,18 @@
 <h2 style="color:#00FFFF;">📡 <strong>Connect with Me</strong></h2>
 
 <div align="center">
-  <a href="mailto:ramkumarudhayakumar@gmail.com">
+  <a href="mailto:prasannakumarap460@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ramkumar-udhayakumar/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/RamkumarU">
+  <a href="https://github.com/prasannakumar-25">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://my-portfolio-88988.web.app/">
+  <!-- <a href="https://my-portfolio-88988.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-%230089FF.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
 </div>
 
 ---

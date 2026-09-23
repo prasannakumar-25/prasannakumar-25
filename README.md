@@ -6,19 +6,6 @@
 
 ---
 
-<h2 style="color:#00FFFF;">💻 <strong>About Me</strong></h2>
-
-🚀 Enthusiastic and detail-oriented *Web Developer* specializing in visually appealing and interactive websites. Passionate about crafting seamless digital experiences through cutting-edge technologies and a creative mindset.
-
-🎓 *Education*: BE in Mechatronics Engineering (2023) from M.A.M School of Engineering, Trichy, India.
-
-🌱 *Currently Exploring*: Advanced frontend animations, scalable full-stack solutions, and database optimizations.
-
-📍 *Location*: Chennai, India.
-
----
-
-<h2 style="color:#00FFFF;">🌟 <strong>My Tech Stack</strong></h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,js,html,css,bootstrap,tailwind" alt="Tech Stack" />
